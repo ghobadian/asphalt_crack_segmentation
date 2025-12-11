@@ -171,7 +171,7 @@ flowchart LR
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ghobadian/crack-segmentation-unet.git
+   git clone https://github.com/ghobadian/asphalt_crack_segmentation.git
    cd crack-segmentation-unet
    ```
 
